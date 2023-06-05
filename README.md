@@ -20,8 +20,7 @@ Accéder au site
 https://les-velos-a-nantes.vercel.app/
 
 Photo du projet
-Capture d’écran 2023-03-31 à 13 53 13
+![image](https://github.com/GaetanSourisse/Velo_a_Nantes_datavizualisation_project/assets/114146959/165d6c01-1380-4c91-af13-443a99e3f1e9)
+![image](https://github.com/GaetanSourisse/Velo_a_Nantes_datavizualisation_project/assets/114146959/6dc89b07-87bf-4dd6-b040-fdaaaf9113f1)
+![image](https://github.com/GaetanSourisse/Velo_a_Nantes_datavizualisation_project/assets/114146959/88ec04b9-e712-4d3c-8079-d17579892fb4)
 
-Capture d’écran 2023-03-31 à 13 53 38
-
-Capture d’écran 2023-03-31 à 13 53 58
